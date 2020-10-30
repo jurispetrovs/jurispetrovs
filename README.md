@@ -1,7 +1,7 @@
-<h1 align="center">Hey, nice to see you <img src="https://github.com/jurispetrovs/jurispetrovs/blob/main/charts/gif/Hi.gif" height="30"></h1>
-<img src="https://github.com/jurispetrovs/jurispetrovs/blob/main/charts/gif/dino.gif"/>
+<h1 align="center">Hey, nice to see you <img src="charts/gif/Hi.gif" height="30"></h1>
+<img src="charts/gif/dino.gif"/>
 
-<img align="right" src="https://github.com/jurispetrovs/jurispetrovs/blob/main/charts/gif/coding.gif" height="300"/>
+<img align="right" src="charts/gif/coding.gif" height="300"/>
 <h2>🤵 About Me:</h2>
 
 Nice to meet you. My name is Juris. I'm a web and app developer from Latvia. I consider myself as a smart worker and a determined team player. 
@@ -27,3 +27,6 @@ I'm always open to learning something new.
 <a href="https://git-scm.com/" title="Git"><img src="charts/icons/git.png" height="50"/></a>
 <a href="https://www.jetbrains.com/phpstorm/" title="PhpStorm"><img src="charts/icons/phpstorm.png" height="50"/></a>
 </p>
+
+---
+
