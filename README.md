@@ -40,7 +40,7 @@ I'm always open to learning something new.
 
 ---
 
-<img align="left" alt="Juris's Github Stats" src="https://github-readme-stats.vercel.app/api?username=jurispetrovs&show_icons=true&theme=radical" />
+<img align="left" alt="Juris's Github Stats" src="https://github-readme-stats.vercel.app/api?username=jurispetrovs&show_icons=true&hide_border=true" />
 
 <br>
 
