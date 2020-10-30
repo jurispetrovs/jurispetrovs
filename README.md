@@ -2,7 +2,7 @@
 <img src="https://github.com/jurispetrovs/jurispetrovs/blob/main/charts/gif/dino.gif"/>
 
 <img align="right" src="https://github.com/jurispetrovs/jurispetrovs/blob/main/charts/gif/coding.gif" height="300"/>
-<h3>🤵 About Me:</h3>
+<h2>🤵 About Me:</h2>
 
 Nice to meet you. My name is Juris. I'm a web and app developer from Latvia. I consider myself as a smart worker and a determined team player. 
 
@@ -12,7 +12,9 @@ Due to the fact that I always had a strong interest in Information Technology an
 
 I'm always open to learning something new.
 
-
-
+<br>
 
 ---
+
+<h2>:wrench: Languages and Tools:</h2>
+<a href="https://www.php.net/" title="PHP"><img src="icons/php.png" /></a>
