@@ -17,6 +17,11 @@ I'm always open to learning something new.
 ---
 
 <h2>:wrench: Languages and Tools:</h2>
-<a href="https://html.spec.whatwg.org/" title="HTML"><img src="charts/icons/html5.png" height="50"/></a>
-<a href="https://www.w3.org/Style/CSS/" title="CSS"><img src="charts/icons/css.png" height="50"/></a>
+<a href="https://html.spec.whatwg.org/" title="HTML 5"><img src="charts/icons/html5.png" height="50"/></a>
+<a href="https://www.w3.org/Style/CSS/" title="CSS 3"><img src="charts/icons/css.png" height="50"/></a>
 <a href="https://www.php.net/" title="PHP"><img src="charts/icons/php.png" height="50"/></a>
+<a href="https://getcomposer.org/" title="Composer"><img src="charts/icons/composer.png" height="50"/></a>
+<a href="https://laravel.com/" title="Laravel"><img src="charts/icons/laravel.png" height="50"/></a>
+<a href="https://www.mysql.com/" title="MySQL"><img src="charts/icons/mysql.png" height="50"/></a>
+<a href="https://git-scm.com/" title="Git"><img src="charts/icons/git.png" height="50"/></a>
+<a href="https://www.jetbrains.com/phpstorm/" title="PhpStorm"><img src="charts/icons/phpstorm.png" height="50"/></a>
