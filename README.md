@@ -42,6 +42,10 @@ I'm always open to learning something new.
 
 <img align="left" alt="Juris's Github Stats" src="https://github-readme-stats.vercel.app/api?username=jurispetrovs&show_icons=true&hide_border=true" />
 
-<br>
 
 <h2>:mailbox: How to reach me:</h2>
+<p>
+<a href="mailto:jur4ik95@gmail.com" target="_blank" title="Gmail"><img src="charts/icons/gmail.png" height="40"/></a>
+<a href="https://www.linkedin.com/in/juris-petrovs/" target="_blank" title="LinkedIn"><img src="charts/icons/linkedin.png" height="40"/></a>
+<a href="https://github.com/jurispetrovs" target="_blank" title="GitHub"><img src="charts/icons/github.png" height="40"/></a>
+</p>
