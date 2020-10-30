@@ -40,8 +40,8 @@ I'm always open to learning something new.
 
 ---
 
-<img align="left" alt="Jatin's Github Stats" src="https://github-readme-stats.vercel.app/api?username=jurispetrovs&show_icons=true&hide_border=true" />
+<img align="left" alt="Juris's Github Stats" src="https://github-readme-stats.vercel.app/api?username=jurispetrovs&show_icons=true&theme=radical" />
 
 <br>
 
-## :mailbox: How to reach me : 
+<h2>:mailbox: How to reach me:</h2>
