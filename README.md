@@ -17,6 +17,6 @@ I'm always open to learning something new.
 ---
 
 <h2>:wrench: Languages and Tools:</h2>
-<a href="https://html.spec.whatwg.org/" title="HTML"><img src="charts/icons/html.png" height="50"/></a>
+<a href="https://html.spec.whatwg.org/" title="HTML"><img src="charts/icons/html5.png" height="50"/></a>
 <a href="https://www.w3.org/Style/CSS/" title="CSS"><img src="charts/icons/css.png" height="50"/></a>
 <a href="https://www.php.net/" title="PHP"><img src="charts/icons/php.png" height="50"/></a>
