@@ -13,7 +13,6 @@ Due to the fact that I always had a strong interest in Information Technology an
 I'm always open to learning something new.
 
 <h3 align="center">Get My <a href="https://github.com/jurispetrovs/jurispetrovs/blob/main/Juris_Petrovs.pdf" target="_blank" title="CV">CV</a></h3>
-
 <br>
 
 ---
