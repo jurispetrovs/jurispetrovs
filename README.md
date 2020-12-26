@@ -32,11 +32,17 @@ I'm always open to learning something new.
 
 <h2>:bulb: Some of my Personal Projects:</h2>
 
-- <a href="https://github.com/jurispetrovs/RPSLS" title="RPSLS">Rock Paper Scissors Lizard Spock</a> (The classic game, but with 2 more added options)
-
-- <a href="https://github.com/jurispetrovs/narvesen" title="Narvesen">Terminal-based simulation of shop and costumer</a>
-
-- <a href="https://github.com/jurispetrovs/codelex-blog" title="Codelex Blog">Simple Blog</a>
+<p align="center">
+  <a href="https://github.com/jurispetrovs/codelex-bank">
+  <img src="charts/gif/CodelexBank.gif" width="250"/>
+  </a>
+  <a href="https://github.com/jurispetrovs/news-board">
+  <img src="charts/gif/NewsBoard.gif" width="250"/>
+  </a>
+  <a href="https://github.com/jurispetrovs/nested-list">
+  <img src="charts/gif/NestedList.gif" width="250"/>
+  </a>
+</p>
 
 ---
 
